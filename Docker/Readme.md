@@ -23,4 +23,4 @@ Container'ların avantajları
 -   Standart paketleme formatı ve çalışma zamanı gibi avantajları var. 
 
 
-![Docker 1](C:\Users\ELEYDEV\Desktop\GetImage.png)
+![GetImage](https://github.com/user-attachments/assets/36329006-02da-4619-a4a0-588752171d05)
