@@ -21,3 +21,5 @@ Container'ların avantajları
   -   Yani daha hızlı bir şekilde container'larımızı oluşturabiliyoruz
 -   İzole bir ortam sunuyor.
 -   Standart paketleme formatı ve çalışma zamanı gibi avantajları var. 
+
+
